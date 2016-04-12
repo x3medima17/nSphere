@@ -1,7 +1,7 @@
 # nSphere
 [![Build Status](https://travis-ci.org/x3medima17/nSphere.svg?branch=dev)](https://travis-ci.org/x3medima17/nSphere)
 
-This is an implemetation of Monte Carlo algorithm for finding volume of an n-Dimensional sphere. The program was written for TGT Oil Internhip.
+This is an implemetation of Monte Carlo algorithm for finding volume of an n-Dimensional sphere. The program was written for TGT Oil Internship.
 The folowing 'best practices' were used.
   - Tests
   - Continuous Integration
